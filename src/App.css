@@ -180,7 +180,7 @@ html, body, #root {
 .open-btn {
   background: black;
   color: #a5fecb;
-  padding: 1.5vh 3vw;
+  padding: 1vh 3vw 1vh 3vw;
   font-size: clamp(.8rem, 1.2vw, 1.2rem);
   cursor: pointer;
   border-radius: 0.5vw;
